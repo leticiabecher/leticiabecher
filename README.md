@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leticia Becher</h1>
 <h3 align="center">A passionate for applied mathematics</h3>
 
-- 🔭 I’m currently working on **my PhD thesis**
+- 🔭 I’m currently working on **applied optimization, linear programming, and mathematical modeling**
 
-- 🌱 I’m currently learning **Mathematical modeling, blackbox optimization, data science**
-
-- ⚡ Fun fact **Colors can easily set my mood**
+- 🌱 I’m currently learning **black-box optimization, data science, and storytelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
